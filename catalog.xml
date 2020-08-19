@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://pilot.kra.ndml.in/okra-iop/services/OkraServiceImpl/wsdl/OkraServiceImpl.wsdl" uri="src/conf/xml-resources/web-service-references/OkraServiceImpl/wsdl/pilot.kra.ndml.in/okra-iop/services/OkraServiceImpl/wsdl/OkraServiceImpl.wsdl"/>
+</catalog>
